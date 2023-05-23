@@ -1,5 +1,5 @@
 import React from 'react';
-import './Main.css';
+import './main.css';
 import NavBar from "./components/NavBar/NavBar";
 import NavSide from "./components/NavSide/NavSide";
 import ContentContainer from "./components/Containers/ContentContainer";
